@@ -1,8 +1,6 @@
 ------------------------------------------------------------------------
-Αυτό είναι το αρχείο README του έργου. Στο αρχείο αυτό θα ήταν καλό να
-περιγράψετε το έργο. Περιγράψτε στον χρήστη (κάποιον που δεν γνωρίζει
-τίποτα για το έργο) ό,τι χρειάζεται να γνωρίζει. Τα σχόλιά σας θα πρέπει
-περιέχουν τουλάχιστον τις παρακάτω κατηγορίες:
+This folder contains weather data files from 2012 to 2015,as well as exports data file for every Country in CSV format.
+There are also java files with methods to manipulate that data and find information such as the hottest day in one year,the biggest exporters in gold etc
 ------------------------------------------------------------------------
 
 ΤΙΤΛΟΣ ΕΡΓΟΥ:
