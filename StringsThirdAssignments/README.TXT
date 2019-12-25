@@ -1,8 +1,10 @@
 ------------------------------------------------------------------------
-Αυτό είναι το αρχείο README του έργου. Στο αρχείο αυτό θα ήταν καλό να
-περιγράψετε το έργο. Περιγράψτε στον χρήστη (κάποιον που δεν γνωρίζει
-τίποτα για το έργο) ό,τι χρειάζεται να γνωρίζει. Τα σχόλιά σας θα πρέπει
-περιέχουν τουλάχιστον τις παρακάτω κατηγορίες:
+Contains :
+-The method cgRatio has one String parameter dna, and returns the ratio of C’s and G’s in dna as a fraction of the entire strand of DNA. For example if the String were “ATGCCATAG,” then cgRatio would return 4/9 or .4444444.
+-Method countCTG has one String parameter dna, and returns the number of times the codon CTG appears in dna.
+-The void method processGenes has one parameter sr, which is a StorageResource of strings. This method processes all the strings in sr to find out information about them. 
+-The method testProcessGenes to call processGenes with a StorageResource of the genes found in the file brca1line.fa.
+
 ------------------------------------------------------------------------
 
 ΤΙΤΛΟΣ ΕΡΓΟΥ:
