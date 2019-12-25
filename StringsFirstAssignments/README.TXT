@@ -1,8 +1,10 @@
 ------------------------------------------------------------------------
-Αυτό είναι το αρχείο README του έργου. Στο αρχείο αυτό θα ήταν καλό να
-περιγράψετε το έργο. Περιγράψτε στον χρήστη (κάποιον που δεν γνωρίζει
-τίποτα για το έργο) ό,τι χρειάζεται να γνωρίζει. Τα σχόλιά σας θα πρέπει
-περιέχουν τουλάχιστον τις παρακάτω κατηγορίες:
+Part 1: Finding a Gene - Using the Simplified Algorithm
+Part 2: Finding a Gene - Using the Simplified Algorithm Reorganized
+Part 3: Problem Solving with Strings
+Part 4: Finding Web Links
+
+Every part contains comments that describe the purpose of the code.
 ------------------------------------------------------------------------
 
 ΤΙΤΛΟΣ ΕΡΓΟΥ:
