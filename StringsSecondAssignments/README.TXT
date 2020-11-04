@@ -6,9 +6,9 @@ Part 3: How Many Genes?
 Every part contains comments that describe the code.
 ------------------------------------------------------------------------
 
-ΤΙΤΛΟΣ ΕΡΓΟΥ:
-ΣΚΟΠΟΣ ΤΟΥ ΕΡΓΟΥ:
+ΤΙΤΛΟΣ ΕΡΓΟΥ:Java Applications    
+ΣΚΟΠΟΣ ΤΟΥ ΕΡΓΟΥ:Practise
 ΕΚΔΟΣΗ ή ΗΜΕΡΟΜΗΝΙΑ:
 ΠΩΣ ΝΑ ΤΡΕΞΕΤΕ ΤΟ ΕΡΓΟ:
-ΔΗΜΙΟΥΡΓΟΙ:
+ΔΗΜΙΟΥΡΓΟΙ:Ioanna Theofilakou
 ΟΔΗΓΙΕΣ ΧΡΗΣΗΣ:
